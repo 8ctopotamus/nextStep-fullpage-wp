@@ -1,0 +1,17 @@
+{
+  "name": "nextstep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.1",
+    "fullpage.js": "^2.7.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
